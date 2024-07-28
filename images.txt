@@ -1,2 +1,2 @@
-helix-p4d
+nginx
 hawkmothstudio/helix-p4d
