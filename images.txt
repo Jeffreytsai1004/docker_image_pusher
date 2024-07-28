@@ -1,3 +1,1 @@
-nginx
-hawkmothstudio/helix-p4d
-alpine
+hawkmothstudio/helix-p4d:latest
